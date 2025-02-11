@@ -55,5 +55,5 @@ Alternatively, you can **manually clone** and **configure** each service for gre
   All Docker images associated with the projects are publicly available on Docker Hub. You can access them here: [Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)
 
 - 📚 **Zenodo Community:**  
-  Explore records from the GESSI NLP4RE community on Zenodo: [GESSI NLP4RE Records](https://zenodo.org/communities/gessi-nlp4re/records?q=&l=list&p=1&s=10&sort=newest)
+  Explore the records from the GESSI NLP4SE research line on Zenodo: [GESSI NLP4SE Records](https://zenodo.org/communities/gessi-nlp4re/records?q=&l=list&p=1&s=10&sort=newest)
 
