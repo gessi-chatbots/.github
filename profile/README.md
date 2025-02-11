@@ -49,6 +49,7 @@ This orchestration provides a **Docker Compose** setup that automates service co
 
 Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
 
+---
 ## 🔗 Links
 
 - 🐋 **Docker Hub Repository:**  
