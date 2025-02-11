@@ -49,10 +49,11 @@ This orchestration provides a **Docker Compose** setup that automates service co
 
 Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
 
----
-🐋 **Docker Hub Repository**
+## 🔗 Links
 
-All Docker images associated with these projects are publicly available on Docker Hub. You can access them here:
+- 🐋 **Docker Hub Repository:**  
+  All Docker images associated with the projects are publicly available on Docker Hub. You can access them here: [Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)
 
-👉 **[Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)**
+- 📚 **Zenodo Community:**  
+  Explore records from the GESSI NLP4RE community on Zenodo: [GESSI NLP4RE Records](https://zenodo.org/communities/gessi-nlp4re/records?q=&l=list&p=1&s=10&sort=newest)
 
