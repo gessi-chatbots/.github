@@ -11,6 +11,12 @@ We also investigate how **large language models (LLM)** can create new opportuni
 
 ## 📁 **Projects**
 
+🐋 **Docker Hub Repository**
+
+All Docker images associated with these projects are publicly available on Docker Hub. You can access them here:
+
+👉 **[Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)**
+
 ### **RE-Miner 2.0**
 - [🔗 RE-Miner Dashboard](https://github.com/gessi-chatbots/RE-Miner-Dashboard)  
 - [🔗 RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF)  
