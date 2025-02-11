@@ -14,7 +14,7 @@ All microservices that are part of the RE-Miner Ecosystem and can be downloaded 
 - [RE-Miner Polarity Analysis](https://github.com/gessi-chatbots/RE-Miner-polarity-analysis)
 - [TransFeatEx](https://github.com/gessi-chatbots/NLP_pipeline)
 - [T-Frex](https://github.com/gessi-chatbots/t-frex)
-  
+- [Emotion Classification (BERT & BETO)](https://github.com/gessi-chatbots/TSA-BERT-V2)
 ## RE-Miner Orchestration
 To simplify the deployment and management of all services within the RE-Miner ecosystem, you can use the **[RE-Miner Orchestration](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**. 
 This orchestration repository provides a **Docker Compose** setup that automatically configures and starts all services in the ecosystem, allowing you to run the entire platform with minimal setup.
