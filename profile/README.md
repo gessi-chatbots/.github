@@ -14,3 +14,11 @@ All microservices that are part of the RE-Miner Ecosystem and can be downloaded 
 - [FeaClustRE](https://github.com/gessi-chatbots/FeaClustRE)
 - [RE-Miner Polarity Analysis](https://github.com/gessi-chatbots/RE-Miner-polarity-analysis)
 - [NLP Pipeline](https://github.com/gessi-chatbots/NLP_pipeline)
+
+## RE-Miner Orchestration
+
+To simplify the deployment and management of all services within the RE-Miner ecosystem, you can use the **[RE-Miner Orchestration](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**. 
+This orchestration repository provides a **Docker Compose** setup that automatically configures and starts all services in the ecosystem, allowing you to run the entire platform with minimal setup.
+
+Alternatively, if you prefer to have full control over each service, you can manually clone and configure the repositories. This approach may be beneficial for customizing individual services or running them in separate environments.
+
