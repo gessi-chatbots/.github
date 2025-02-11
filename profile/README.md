@@ -11,12 +11,6 @@ We also investigate how **large language models (LLM)** can create new opportuni
 
 ## 📁 **Projects**
 
-🐋 **Docker Hub Repository**
-
-All Docker images associated with these projects are publicly available on Docker Hub. You can access them here:
-
-👉 **[Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)**
-
 ### **RE-Miner 2.0**
 - [🔗 RE-Miner Dashboard](https://github.com/gessi-chatbots/RE-Miner-Dashboard)  
 - [🔗 RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF)  
@@ -54,4 +48,11 @@ Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestration](ht
 This orchestration provides a **Docker Compose** setup that automates service configuration and execution.
 
 Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
+
+---
+🐋 **Docker Hub Repository**
+
+All Docker images associated with these projects are publicly available on Docker Hub. You can access them here:
+
+👉 **[Docker Hub: mtiessler](https://hub.docker.com/u/mtiessler)**
 
