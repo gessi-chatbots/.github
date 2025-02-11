@@ -5,7 +5,7 @@
 - [RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF)
 - [RE-Miner Hub](https://github.com/gessi-chatbots/RE-Miner-Hub)
 - [MApp-KG](https://github.com/gessi-chatbots/app_data_repository)
-- 
+
 ## RE-Miner ecosystem
 All microservices that are part of the RE-Miner Ecosystem and can be downloaded along with RE-Miner 2.0:
 - [RE-Miner Type Analysis](https://github.com/gessi-chatbots/RE-Miner-type-analysis)
