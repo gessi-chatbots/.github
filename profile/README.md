@@ -12,7 +12,7 @@ We also investigate how **large language models (LLM)** can create new opportuni
 ## 📁 **Projects**
 
 ### 🔄 **RE-Miner Orchestration**  
-Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestration](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**.  
+Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestrator](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**.  
 This orchestration provides a **Docker Compose** setup that automates service configuration and execution.
 
 Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
