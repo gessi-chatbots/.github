@@ -11,6 +11,14 @@ We also investigate how **large language models (LLM)** can create new opportuni
 
 ## 📁 **Projects**
 
+### 🔄 **RE-Miner Orchestration**  
+Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestration](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**.  
+This orchestration provides a **Docker Compose** setup that automates service configuration and execution.
+
+Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
+
+---
+
 ### **RE-Miner 2.0**
 - [🔗 RE-Miner Dashboard](https://github.com/gessi-chatbots/RE-Miner-Dashboard)  
 - [🔗 RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF)  
@@ -42,14 +50,11 @@ All microservices that are part of the RE-Miner Ecosystem, available alongside R
 - [🔗 Emotion Classification (BERT & BETO)](https://github.com/gessi-chatbots/TSA-BERT-V2)  
 
 ---
+### Data Extractors
 
-### 🔄 **RE-Miner Orchestration**  
-Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestration](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**.  
-This orchestration provides a **Docker Compose** setup that automates service configuration and execution.
-
-Alternatively, you can **manually clone** and **configure** each service for greater customization or to fit separate environments.
 
 ---
+
 ## 🔗 Links
 
 - 🐋 **Docker Hub Repository:**  
