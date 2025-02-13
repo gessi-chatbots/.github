@@ -50,9 +50,9 @@ All microservices that are part of the RE-Miner Ecosystem, available alongside R
 - [🔗 Emotion Classification (BERT & BETO)](https://github.com/gessi-chatbots/TSA-BERT-V2)  
 
 ---
-### Data Extractors
-
-
+### Data Extractors (Monitors)
+- [🔗 Marketplaces](https://github.com/gessi-chatbots/Marketplace-Monitor)
+- [🔗 Social Networks](https://github.com/gessi-chatbots/Social-Network-Monitor)
 ---
 
 ## 🔗 Links
