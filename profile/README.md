@@ -20,11 +20,10 @@ Alternatively, you can **manually clone** and **configure** each service for gre
 ---
 
 ### **RE-Miner 2.0**
-- [🔗 RE-Miner Dashboard](https://github.com/gessi-chatbots/RE-Miner-Dashboard)  
-- [🔗 RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF)  
-- [🔗 RE-Miner Hub](https://github.com/gessi-chatbots/RE-Miner-Hub)  
-- [🔗 MApp-KG](https://github.com/gessi-chatbots/app_data_repository)  
-
+- [🔗 RE-Miner Dashboard](https://github.com/gessi-chatbots/RE-Miner-Dashboard): Interactive dashboard for users to interact with the RE-Miner Ecosystem for data analysis, visualization, and NLP-based insights.
+- [🔗 RE-Miner Dashboard BFF](https://github.com/gessi-chatbots/RE-Miner-Dashboard-BFF): Backend for the RE-Miner Dashboard. It handles the API requests, data processing, user management and integration with the other components within the RE-Miner 2.0 architecture.
+- [🔗 RE-Miner Hub](https://github.com/gessi-chatbots/RE-Miner-Hub): RE-Miner 2.0 is the central integration module, connecting the RE-Miner 2.0 to the RE-Miner Ecosystem.
+- [🔗 MApp-KG](https://github.com/gessi-chatbots/app_data_repository): API that connects to a RDF-based knowledge graph integrating a catalogue of mobile applications and user review, it performs repository operations while also analyzing data and extracting summaries for insights.
 ---
 
 ### **RE-Miner Ecosystem**  
