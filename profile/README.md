@@ -10,8 +10,13 @@ We also investigate how **large language models (LLM)** can create new opportuni
 ---
 
 ## 📁 **Projects**
+---
+
 ### **APIs documentation**  
 All the APIs endpoints and documentation can be found in the [GESSI - NLP4SE Postman Collection](https://www.postman.com/gessi-fib-upc/gessi-nlp4se)
+
+---
+
 ### 🔄 **RE-Miner Orchestration**  
 Deploy and manage the entire ecosystem easily with **[RE-Miner Orchestrator](https://github.com/gessi-chatbots/RE-Miner-Orchestration)**.  
 This orchestration provides a **Docker Compose** setup that automates service configuration and execution.
